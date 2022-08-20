@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/participants/participants.iml" filepath="$PROJECT_DIR$/participants/participants.iml" />
       <module fileurl="file://$PROJECT_DIR$/service_discovery/service_discovery.iml" filepath="$PROJECT_DIR$/service_discovery/service_discovery.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/storm_events.iml" filepath="$PROJECT_DIR$/.idea/storm_events.iml" />
     </modules>
